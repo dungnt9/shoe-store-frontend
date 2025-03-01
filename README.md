@@ -24,6 +24,11 @@ cd shoe-store-frontend
 npm install
 ```
 
+- Note: Các dependences:
+```bash
+npm install sass @nuxtjs/style-resources axios @pinia/nuxt pinia
+```
+
 2. Cấu hình kết nối với backend:
 
 Kiểm tra cấu hình trong file `nuxt.config.ts`:
